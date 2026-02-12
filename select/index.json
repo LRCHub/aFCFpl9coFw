@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ストレートネック（feat. 雨衣）",
+  "base_artist": "OSTER project",
+  "createdAt": "2026-02-12T07:03:23.636455Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ストレートネック",
+      "artist": "OSTER project feat. 雨衣",
+      "has_synced": false,
+      "path": "select/pl_01_ストレートネック_OSTER_project_feat._雨衣.txt"
+    }
+  ]
+}
